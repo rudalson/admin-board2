@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 참고
+
+Demo : https://rudalson.github.io/admin-board2/
+
+## Dependencies
+
+```
+yarn add @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/react @fullcalendar/interaction @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
+```
+
+## vscode Extension
+
+Tailwind CSS Shades
+Cmd+k, Cmd+g 해서 필요한 색들을 변수화 시킴
+
+## Chrome Extension
+
+Pesticide for Chrome 설치
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -70,18 +89,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # References
-
-## Dependencies
-
-```
-yarn add @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar formik yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/react @fullcalendar/interaction @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo
-```
-
-## vscode Extension
-
-Tailwind CSS Shades
-Cmd+k, Cmd+g 해서 필요한 색들을 변수화 시킴
-
-## Chrome Extension
-
-Pesticide for Chrome 설치
